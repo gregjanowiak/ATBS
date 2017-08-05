@@ -1,0 +1,1 @@
+- program that opens all txt files in a directory and searches for line that matches a supplied regex, print results to stdout
